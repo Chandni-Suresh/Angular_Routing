@@ -2,7 +2,6 @@
 ## The Angular Router In Depth Course
 
 Created a new branch.
-
 This repository contains the code of the course [Angular Router In Depth](https://angular-university.io/course/angular-router-course).
 
 This course repository is updated to Angular v12.
